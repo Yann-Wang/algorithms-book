@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484747388 source:c:\users\a_wav\desktop\algorithm\knight\main.cpp
+	<iostream>
+	<cstdio>
+	<queue>
+

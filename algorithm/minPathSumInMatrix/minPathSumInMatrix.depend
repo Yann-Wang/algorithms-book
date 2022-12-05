@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476019589 source:c:\users\a_wav\desktop\algorithm\minpathsuminmatrix\main.cpp
+	<iostream>
+	<vector>
+

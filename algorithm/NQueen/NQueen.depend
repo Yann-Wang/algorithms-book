@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1484743457 source:c:\users\a_wav\desktop\algorithm\nqueen\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+

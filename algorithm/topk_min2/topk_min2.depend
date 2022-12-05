@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475235304 source:c:\users\a_wav\desktop\algorithm\topk_min2\main.c
+	<stdio.h>
+	<stdlib.h>
+

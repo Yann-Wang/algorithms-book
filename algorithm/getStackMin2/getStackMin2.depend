@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1475822627 source:c:\users\a_wav\desktop\algorithm\getstackmin2\main.c
+	<stdio.h>
+	<stdlib.h>
+

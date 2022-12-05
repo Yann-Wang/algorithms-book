@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1475978562 source:c:\users\a_wav\desktop\algorithm\createbinarytree\main.cpp
+	<iostream>
+	<stack>
+	"createbt.h"
+
+1475978619 c:\users\a_wav\desktop\algorithm\createbinarytree\createbt.h
+	<vector>
+

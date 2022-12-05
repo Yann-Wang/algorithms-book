@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1475374946 source:c:\users\a_wav\desktop\algorithm\rotaterectmatrix90\main.c
+	<stdio.h>
+	"spiralPrintMatrix.c"
+
+1475374381 c:\users\a_wav\desktop\algorithm\rotaterectmatrix90\spiralprintmatrix.c
+

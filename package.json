@@ -1,0 +1,14 @@
+{
+  "name": "algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test2": "promises-aplus-tests MyPromise2.js",
+    "test1": "promises-aplus-tests MyPromise.js"
+  },
+  "author": "wyn",
+  "license": "MIT",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
